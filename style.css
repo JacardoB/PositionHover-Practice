@@ -1,0 +1,68 @@
+* {
+    background-color: rgb(10, 43, 27);
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 175px;
+}
+
+div {
+    color: rgb(198, 198, 198);
+    text-align: center;
+    font-size: 30px;
+}
+
+
+img {
+    display: block;
+  margin: 50px auto;
+  margin-left: 550px;
+  width: 300px;
+  height: 200px;
+  position: static;
+  bottom: 100px;
+
+}
+
+
+
+
+.one:hover {
+    color: rgb(143, 13, 249);
+}
+
+/* new group */
+.two:hover {
+    color: rgb(0, 4, 255);
+}
+
+/* new group */
+.three:hover {
+    color: rgb(0, 204, 255);
+}
+
+/* new group */
+.four:hover {
+    color: rgb(61, 228, 0);
+    background-color: black;
+    padding: 5px;
+    width: 300px;
+    margin: auto;
+    border-radius: 30px;
+}
+
+/* new group */
+.five:hover {
+    color: rgb(246, 255, 0);
+}
+
+/* new group */
+.six:hover {
+    color: rgb(255, 162, 0);
+}
+
+/* new group */
+.seven:hover {
+    color: rgb(255, 0, 0);
+}
